@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>form.qml</file>
+        <file>Formulaire.qml</file>
+        <file>FormulaireForm.ui.qml</file>
+    </qresource>
+</RCC>
